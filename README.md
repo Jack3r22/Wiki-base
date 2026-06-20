@@ -1,2 +1,13 @@
 # Wiki-base
-Repositorio central de documentación
+Bienvenido a mi base de conocimientos. Este repositorio centraliza mis guías, configuraciones y scripts...
+
+## 📂 Estructura
+- [**Documentación**](Documentacion/): Manuales, GPOs y guías de configuración.
+- [**Scripts**](Scripts/): Automatización con PowerShell, Bash y otros lenguajes.
+
+## 🚀 Tecnologías
+- **Sistemas:** Windows Server, Active Directory, GPOs...
+- **Redes:** MikroTik, UniFi, Gestión de VLANs...
+- **Automatización:** n8n, PowerShell, Docker...
+
+---
