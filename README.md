@@ -1,13 +1,9 @@
 # Wiki-base
 Bienvenido a mi base de conocimientos. Este repositorio centraliza mis guías, configuraciones y scripts...
 
-## 📂 Estructura
-- [**Documentación**](Documentacion/): Manuales, GPOs y guías de configuración.
-- [**Scripts**](Scripts/): Automatización con PowerShell, Bash y otros lenguajes.
+Haz clic en los enlaces para acceder a la documentacion especifica: 
+- 📂 [**Windows:**](https://github.com/Jack3r22/Windows)
+  *Active Directory, GPOs, IIS, Servidores, Scripts, Manuales...*
 
-## 🚀 Tecnologías
-- **Sistemas:** Windows Server, Active Directory, GPOs...
-- **Redes:** MikroTik, UniFi, Gestión de VLANs...
-- **Automatización:** n8n, PowerShell, Docker...
 
 ---
